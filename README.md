@@ -1,6 +1,4 @@
-<div align = "center" >
-  <img align = "center" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" height = "300" width ="600"/>
-  </div>
+
 
 <h1 align="center">Welcome! I am Kamil 🤙🏻</h1>
 <h3 align="center">Future frontend developer from Poland 👨🏻‍💻</h3>
