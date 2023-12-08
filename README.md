@@ -5,7 +5,7 @@
 
 <br/>
 
-- ✍🏻 I’m currently working on **Learning**
+- ✍🏻 I’m currently working on **First JS Project (Calculator)**
 
 - 💻 I’m currently learning **Java Script**
 
