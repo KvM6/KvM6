@@ -7,7 +7,7 @@
 
 - ✍🏻 I’m currently working on **First JS Project (Calculator)**
 
-- 💻 I’m currently learning **Java Script**
+- 💻 I’m currently learning **Gulp**
 
 - 👨🏻‍💻 All of my projects are available at [Not yet](Not yet)
 
