@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **kamilfreelancework@gmail.**
+- 📫 How to reach me **kamilfreelancework@gmail**
 
 - ⚡ Fun fact **I also produce electronic music and play live** <a href="https://soundcloud.com/livekvm"/>KvM</a>
 
