@@ -11,11 +11,9 @@
 
 - 👨🏻‍💻 All of my projects are available at (Not included yet)
 
-- 💬 Ask me about **Anything**
+- 📫 Contact **kamilmfront@gmail**
 
-- 📫 How to reach me **kamilfreelancework@gmail**
-
-- ⚡ Fun fact **I also produce electronic music and play live** <a href="https://soundcloud.com/livekvm"/>KvM</a>
+**I also produce electronic music and play live** <a href="https://soundcloud.com/livekvm"/>KvM</a>
 
 <br/>
 
