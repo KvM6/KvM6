@@ -7,13 +7,13 @@
 
 - ✍🏻 I’m currently working on **Design of my work included profiles**
 
-- 💻 I’m currently learning **Vue.js**
+- 💻 I’m currently learning **Figma**
 
 - 👨🏻‍💻 All of my projects are available at (Not included yet)
 
 - 📫 Contact **kamilmfront@gmail**
 
-**I also produce electronic music and play live** <a href="https://soundcloud.com/livekvm"/>KvM</a>
+**I also produce electronic music and play live** <a href="https://soundcloud.com/kcolonm"/>KvM</a>
 
 <br/>
 
