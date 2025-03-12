@@ -29,7 +29,10 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://media.zeemly.com/zeemly/product/tailwind-css.png" alt="tailwindcss" width="40" height="40"/> </a>
-  <a href="https://gulpjs.com/docs/en/getting-started/quick-start" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gulp_icon_130557.png" alt="gulp" width="40" height="40" /> </a>
+  <a href="https://gulpjs.com/docs/en/getting-started/quick-start" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gulp_icon_130557.png"
+alt="gulp" width="40" height="40" /> </a>
+  <a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3236765/figma-icon-md.png"
+alt="figma" width="40" height="40" /> </a>
 </p>
 
 
