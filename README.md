@@ -13,7 +13,7 @@
 
 - 📫 Contact **kamilmfront@gmail**
 
-**I also produce electronic music and play live** <a href="https://soundcloud.com/kcolonm"/>KvM</a>
+**I also produce electronic music and play live** <a href="https://soundcloud.com/kcolonm"/>K:M</a>
 
 <br/>
 
