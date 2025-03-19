@@ -37,6 +37,3 @@ alt="figma" width="40" height="40" /> </a>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kvm6&show_icons=true&locale=en&layout=compact" alt="kvm6" /></p>
-
-<h3 align="left">My stats🔥</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kvm6&" alt="kvm6" /></p>
