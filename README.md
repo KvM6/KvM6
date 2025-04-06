@@ -5,11 +5,11 @@
 
 <br/>
 
-- ✍🏻 I’m currently working on **Design of my work included profiles**
+- ✍🏻 I’m currently working on **Building my music page for K:M**
 
 - 💻 I’m currently learning **Figma**
 
-- 👨🏻‍💻 All of my projects are available at (Not included yet)
+- 👨🏻‍💻 There is my portfolio page (Not included yet)
 
 - 📫 Contact **kamilmfront@gmail**
 
