@@ -5,15 +5,15 @@
 
 <br/>
 
-- ✍🏻 I’m currently working on **Building my music page for K:M**
+- ✍🏻 I’m currently working on **Building page for my portfolio.**
 
-- 💻 I’m currently learning **Figma**
+- 💻 I’m currently learning **Using Vite**
 
 - 👨🏻‍💻 There is my portfolio page (Not included yet)
 
 - 📫 Contact **kamilmfront@gmail**
 
-**I also produce electronic music and play live** <a href="https://soundcloud.com/kcolonm"/>K:M</a>
+**I also produce electronic music and play live** <a href="https://soundcloud.com/kcolonm"/>KvM</a>
 
 <br/>
 
