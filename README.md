@@ -33,8 +33,8 @@
 alt="gulp" width="40" height="40" /> </a>
   <a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3236765/figma-icon-md.png"
 alt="figma" width="40" height="40" /> </a>
-  <a href="https://v5.vite.dev" target="_blank" rel="noreferrer"> <img src="[https://logospng.org/logo-vite-js/](https://v5.vite.dev/)"
-alt="figma" width="40" height="40" /> </a>
+  <a href="https://v5.vite.dev" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/40/1/vite-logo-png_seeklogo-405912.png"
+alt="vite" width="40" height="40" /> </a>
 </p>
 
 
