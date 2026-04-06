@@ -33,7 +33,7 @@
 alt="gulp" width="40" height="40" /> </a>
   <a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3236765/figma-icon-md.png"
 alt="figma" width="40" height="40" /> </a>
-  <a href="https://v5.vite.dev" target="_blank" rel="noreferrer"> <img src="https://cambridge-intelligence.com/wp-content/uploads/2024/07/Vite-official-logo.png"
+  <a href="https://v5.vite.dev" target="_blank" rel="noreferrer"> <img src="https://www.logoshape.com/wp-content/uploads/2025/01/Vitejs_vector_logo.png"
 alt="vite" width="40" height="40" /> </a>
 </p>
 
