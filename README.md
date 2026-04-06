@@ -7,7 +7,7 @@
 
 - ✍🏻 I’m currently working on **Building page for my portfolio.**
 
-- 💻 I’m currently learning **Using Vite**
+- 💻 I’m currently learning **VUE**
 
 - 👨🏻‍💻 There is my portfolio page (Not included yet)
 
@@ -36,6 +36,3 @@ alt="figma" width="40" height="40" /> </a>
   <a href="https://v5.vite.dev" target="_blank" rel="noreferrer"> <img src="https://www.logoshape.com/wp-content/uploads/2025/01/Vitejs_vector_logo.png"
 alt="vite" width="40" height="40" /> </a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kvm6&show_icons=true&locale=en&layout=compact" alt="kvm6" /></p>
