@@ -28,10 +28,10 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F293%2F485%2Fpng-transparent-tailwind-css-hd-logo.png&f=1&nofb=1&ipt=676af1b2923a82fb20d8566cd58465e60e99e0915df35d08eb8005caff67bef8" alt="tailwindcss" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.96ee6a5a.svg" alt="tailwindcss" width="40" height="40"/> </a>
   <a href="https://gulpjs.com/docs/en/getting-started/quick-start" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gulp_icon_130557.png"
 alt="gulp" width="40" height="40" /> </a>
-  <a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fwp-content%2Fuploads%2Ffigma.png&f=1&nofb=1&ipt=3e7552c92bf9b5755450f5b4b67d972a0e7ce42211c5a2856a11d39fb9871ce7"
+  <a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://duckduckgo.com/i/7353e9dada9709f0.png"
 alt="figma" width="40" height="40" /> </a>
   <a href="https://v5.vite.dev" target="_blank" rel="noreferrer"> <img src="https://www.logoshape.com/wp-content/uploads/2025/01/Vitejs_vector_logo.png"
 alt="vite" width="40" height="40" /> </a>
