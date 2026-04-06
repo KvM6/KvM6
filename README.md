@@ -37,4 +37,6 @@ alt="figma" width="40" height="40" /> </a>
 alt="vite" width="40" height="40" /> </a>
     <a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://vueframework.com/logo.png"
 alt="vue.js" width="40" height="40" /> </a>
+   <a href="https://ollama.com" target="_blank" rel="noreferrer"> <img src="https://ollama.com/public/ollama.png"
+alt="ollama" width="40" height="40" /> </a>
 </p>
