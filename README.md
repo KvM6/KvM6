@@ -35,6 +35,6 @@ alt="gulp" width="40" height="40" /> </a>
 alt="figma" width="40" height="40" /> </a>
   <a href="https://v5.vite.dev" target="_blank" rel="noreferrer"> <img src="https://www.logoshape.com/wp-content/uploads/2025/01/Vitejs_vector_logo.png"
 alt="vite" width="40" height="40" /> </a>
-    <a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fwp-content%2Fuploads%2Fvue-js.png&f=1&nofb=1&ipt=f9b26486123dade9c0687b8b6d0e40176362ab7aaeebffb14ad3a801cbb19124"
+    <a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.Osg54iPnH5X0VLDqtPd2zgHaHa%3Fpid%3DApi&f=1&ipt=d2962aa56f8c164906f7570e16f9f143d0efaa3d28b13f522e0092d7be43d30a&ipo=images"
 alt="vue.js" width="40" height="40" /> </a>
 </p>
